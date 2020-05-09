@@ -1,0 +1,6 @@
+
+npm install -g @angular/cli 
+
+ng new Project <<project-name>> -- this will create necessary files. We can add/modify these files based on our need.
+
+
